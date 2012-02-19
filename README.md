@@ -5,7 +5,7 @@
 
 This is a PHP class that outputs color formatted strings for the console. It has a public API that supports several methods of calling as can be seen below.
 
-``` php
+```
 // direct output of formatted string
 $output = PrettyConsole::output("PrettyConsole::output",248,0) . "\n";
 
