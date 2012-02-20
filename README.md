@@ -1,6 +1,7 @@
 # Pretty Console for PHP
 
 * Written by Greg Schoen (greg.schoen@gmail.com)
+* https://github.com/gregschoen/pretty-console-for-php
 * Requires PHP 5.3
 
 This is a PHP class that outputs color formatted strings for the console. It has a public API that supports several methods of calling as can be seen below. Works best with xterm-256color as your TERM.
