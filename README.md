@@ -3,7 +3,7 @@
  * Written by Greg Schoen (greg.schoen@gmail.com)
  * Requires PHP 5.3
 
-This is a PHP class that outputs color formatted strings for the console. It has a public API that supports several methods of calling as can be seen below.
+This is a PHP class that outputs color formatted strings for the console. It has a public API that supports several methods of calling as can be seen below. Works best with xterm-256color as your TERM.
 
 ```
 // direct output of formatted string
