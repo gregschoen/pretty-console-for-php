@@ -21,5 +21,5 @@ PrettyConsole::puts("PrettyConsole::puts");
 PrettyConsole::return248("PrettyConsole::return248");
 ```
 
-[Console Color Hex Chart](http://upload.wikimedia.org/wikipedia/commons/9/95/Xterm_color_chart.png)
+![Console Color Hex Chart](http://upload.wikimedia.org/wikipedia/commons/9/95/Xterm_color_chart.png)
 
